@@ -42,9 +42,5 @@
   
   </br></br>
   
-<div align="right">
-<a href="https://co.pinterest.com/pin/633387440947446/">Img.Pinterest</a>
-  </div>
-  </div>
 
-------
+  </div>
