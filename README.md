@@ -1,4 +1,4 @@
-<p align = center <h2> / Dev-Sot/</h2> </p>
+<p align = center <h2> / Dev-Sot /</h2> </p>
 <p align = center <h2> / an aspiring full-stack developer /</h2> </p>
 
 <div>
