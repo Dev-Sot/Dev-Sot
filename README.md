@@ -33,7 +33,7 @@
 
 
 ```yaml
-nombre: Tu Nombre
+nombre: Minazuki
 alias: @Dev-Sot
 lenguajes:
   - Python
@@ -45,7 +45,7 @@ IDE_favoritos:
   - VSCode
   - Eclipse
 pasatiempos:
-  - Programar proyectos locos 🤖
-  - Juegos indie y retro 🎮
-  - Café ☕ + código 💻
+  - Programar proyectos locos 
+  - Juegos indie y retro 
+  - Café + código 
 
