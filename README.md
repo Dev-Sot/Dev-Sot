@@ -1,13 +1,19 @@
 <h1 align="center">👾 Bienvenido a mi mundo digital 👾</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=Hola%2C+soy+Minazuki+%7C+%40Dev-Sot;Desarrollador+orientado+a+resultados+%F0%9F%9A%80;En+constante+evoluci%C3%B3n+%F0%9F%93%9A;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%94%8E" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hola%2C+soy+Minazuki+%7C+%40Dev-Sot" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AsAAspirante+a+desarrollador+Full+Stack+%F0%9F%9A%80" />
 </div>
 
+<br /><br />
 
 <p align="center">
   🧠 <b>Desarrollador en formación</b> &nbsp;|&nbsp; 💡 <b>Apasionado por la tecnología</b> &nbsp;|&nbsp; ☕ <b>Café como combustible</b>
 </p>
+
+---
+
+### 🛠️ Habilidades y herramientas
 
 <br />
 
@@ -15,7 +21,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,vscode,eclipse,git" />
 </div>
 
-<br />
+<br /><br />
+
+---
+
+### 🏆 Logros y estadísticas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dev-Sot&theme=algolia&no-frame=true&row=1&column=7" />
@@ -26,7 +36,11 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=tokyonight" />
 </div>
 
-<br/>
+<br /><br />
+
+---
+
+### 📫 Conectá conmigo
 
 <p align="center">
   <a href="https://linkedin.com/in/Dev-Sot" target="_blank">
@@ -37,6 +51,10 @@
   </a>
 </p>
 
+---
+
+### 🧠 Filosofía de código
+
 <p align="center">
   <b>"El código es como la poesía: claro, elegante y poderoso." 💥</b>
 </p>
@@ -44,6 +62,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" height="200px"/>
 </p>
+
+---
 
 <details>
   <summary>📁 Más sobre mí</summary>
