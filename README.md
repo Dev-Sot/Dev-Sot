@@ -1,4 +1,4 @@
-<h1 align="center">👾 Bienvenido a mi mundo digital 👾</h1>
+<h1 align="center"> Bienvenido a mi mundo digital </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hola%2C+soy+Minazuki+%7C+%40Dev-Sot" />
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" height="200px"/>
+  <img src="https://giffiles.alphacoders.com/114/114659.gif" height="200px"/>
 </p>
 
 <details>
