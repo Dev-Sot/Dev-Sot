@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  🧠 <b>Desarrollador en formación</b> &nbsp;|&nbsp; 💡 <b>Apasionado por la tecnología</b> &nbsp;|&nbsp; ☕ <b>Café como combustible</b>
+   <b>Desarrollador en formación</b> &nbsp;|&nbsp;  <b>Apasionado por la tecnología</b> &nbsp;|&nbsp;  <b>Café como combustible</b>
 </p>
 
 <br />
@@ -41,7 +41,7 @@
 <br />
 
 <p align="center">
-  <b>"El código es como la poesía: claro, elegante y poderoso." 💥</b>
+  <b>"Who the fuck do you think I am?!" </b>
 </p>
 
 <p align="center">
