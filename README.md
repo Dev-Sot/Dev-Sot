@@ -1,7 +1,7 @@
-<h1 align="center"> Bienvenido a mi mundo digital </h1>
+<h1 align="center"> Willkommen auf meinem Profil </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hola%2C+soy+Minazuki+%7C+%40Dev-Sot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello%2C+I'm+Minazuki+%7C+%40Dev-Sot" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspirante+a++Full+Stack+%F0%9F%9A%80" />
 </div>
