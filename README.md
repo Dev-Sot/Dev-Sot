@@ -1,13 +1,13 @@
-<h1 align="center"> Willkommen auf meinem Profil </h1>
+<h1 align="center"> Welcome to my Profile </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello%2C+I'm+Minazuki+%7C+%40Dev-Sot" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspirante+a++Full+Stack+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80" />
 </div>
 
 <p align="center">
-   <b>Desarrollador en formación</b> &nbsp;|&nbsp;  <b>Apasionado por la tecnología</b> &nbsp;|&nbsp;  <b>Café como combustible</b>
+   <b>Developer in training</b> &nbsp;|&nbsp;  <b>Passionate about technology</b> &nbsp;|&nbsp;  <b>Coffee as fuel</b>
 </p>
 
 <br />
@@ -41,29 +41,29 @@
 <br />
 
 <p align="center">
-  <b>"Who the fuck do you think I am?!" </b>
+  <b>"I should probably put something here"</b>
 </p>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/114/114659.gif" height="200px"/>
+  <img src="https://media.giphy.com/media/fYwY2G6gyIxeQnab5F/giphy.gif" height="200px"/>
 </p>
 
 <details>
-  <summary>📁 Más sobre mí</summary>
+  <summary>📁 More about me</summary>
 
 ```yaml
-nombre: Minazuki
+name: Minazuki
 alias: @Dev-Sot
-lenguajes:
+languages:
   - Python
   - Java
-  - JavaScript (aprendiendo)
-  - SQL (aprendiendo)
-  - HTML & CSS (aprendiendo)
-IDE_favoritos:
+  - JavaScript (learning)
+  - SQL (learning)
+  - HTML & CSS (learning)
+favorite_IDEs:
   - VSCode
   - Eclipse
-pasatiempos:
-  - Programar proyectos creativos
-  - Juegos indie y retro
-  - Café + código
+hobbies:
+  - Coding creative projects
+  - Indie and retro games
+  - Coffee + code
