@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my Profile </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello%2C+I'm+Minazuki+%7C+%40Dev-Sot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello%2C+I'm+Dev-Sot" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80" />
 </div>
@@ -29,41 +29,8 @@
 
 <br />
 
-<p align="center">
-  <a href="https://linkedin.com/in/Dev-Sot" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <br />
 
-<p align="center">
-  <b>"I should probably put something here"</b>
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fYwY2G6gyIxeQnab5F/giphy.gif" height="200px"/>
-</p>
 
-<details>
-  <summary>📁 More about me</summary>
-
-```yaml
-name: Minazuki
-alias: @Dev-Sot
-languages:
-  - Python
-  - Java
-  - JavaScript (learning)
-  - SQL (learning)
-  - HTML & CSS (learning)
-favorite_IDEs:
-  - VSCode
-  - Eclipse
-hobbies:
-  - Coding creative projects
-  - Indie and retro games
-  - Coffee + code
