@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dev-Sot&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Sot" />
 </p>
 
-<img src="https://i.pinimg.com/736x/3e/d0/d9/3ed0d984ecb5f6f0374cd6c0d26dd4df.jpg" alt="animated gif" align="right" width="340px" />
+<img src="https://i.pinimg.com/736x/32/1c/ab/321cab537d0efe014056254e6a77d270.jpg" alt="animated gif" align="right" width="340px" />
 
 ### About Me
 
