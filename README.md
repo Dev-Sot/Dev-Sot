@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm NG</h1>
-<h3 align="center">Backend Developer | Java & Python Enthusiast | Colombia</h3>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50">NG</span></h1>
+<h3 align="center" style="color:gray;">Backend Developer | Java & Python Enthusiast | Colombia</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dev-Sot&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Sot" />
 </p>
 
-<img src="https://i.pinimg.com/originals/aa/4b/e2/aa4be2ab62201be4d6aa5aba9d66b5e5.png" alt="animated gif" align="right" width="340px" />
+<p align="center">
+  <img src="https://i.ibb.co/0R24BFxX/b85ff931-1760-4791-9128-0a879d86a73d.webp" width="50%" style="max-width: 180px; min-width: 120px;" />
+</p>
 
 ### About Me
 
