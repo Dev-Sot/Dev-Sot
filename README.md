@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">NG</span></h1>
-  <img src="https://i.pinimg.com/1200x/15/50/8c/15508c69aecaa5b95183f7a5332349fd.jpg" width="220" />
+  <img src="https://i.pinimg.com/originals/78/db/1c/78db1c4ab362ac38592cf91e614388ca.gif" width="220" />
   <h3 align="center" style="color:gray;">Backend & Aspiring Full-Stack Developer</h3>
 </div>
 
