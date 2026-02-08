@@ -38,7 +38,7 @@ I am currently expanding my stack to consolidate myself as a complete developer.
 
 # Connect with Me
 
-[Discord](https://discord.com/users/1374604165887823941)
+[Discord]()
 
 ---
 
