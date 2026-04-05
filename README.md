@@ -76,32 +76,9 @@ Systems Engineering student (7th semester) and Full Stack Developer focused on b
 
 ---
 
-## Featured Projects
-
-###  Auth API — JWT + Spring Boot
-> Production-ready REST API with JWT authentication, role-based access control (RBAC), Swagger/OpenAPI docs, and containerized with Docker.
-
-`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Docker` `JWT`
-
-[View Repository →](#)
 
 ---
 
-###  Task Manager — Full Stack App
-> End-to-end task management platform. React frontend with FastAPI backend, user auth, and Docker Compose for one-command local deployment.
-
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Docker Compose`
-
-[View Repository →](#)
-
----
-
-###  Automation Bot — Python
-> Telegram/Discord bot with scheduled jobs, external API integrations, and a lightweight Flask dashboard to manage configuration.
-
-`Python` `Flask` `Docker` `Telegram API` `Discord API`
-
-[View Repository →](#)
 
 ---
 
