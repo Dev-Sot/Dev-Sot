@@ -104,13 +104,10 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
 
 ## GitHub stats
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&hide=contribs"/>
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6"/>
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</p>
 
 ## Services
 
