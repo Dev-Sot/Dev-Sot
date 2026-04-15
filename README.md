@@ -105,8 +105,8 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
 ## GitHub stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ## Services
