@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=180&section=header&text=DevSot&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Building%20Real%20Systems&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+scalable+web+systems;Backend+%2B+Frontend+%2B+Infrastructure;From+idea+to+production" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=120&section=header&text=DevSot&fontSize=48&fontColor=58a6ff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Building%20Real%20Systems&descAlignY=70&descSize=12&animation=fadeIn" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=I+build+scalable+web+systems;Backend+%2B+Frontend+%2B+Infrastructure;From+idea+to+production" />
 
 *Turning complex problems into clean, deployable solutions.*
 
@@ -11,15 +10,15 @@
 
 ## About
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right"/>
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="230" align="right"/>
 
 Fullstack Developer focused on building **real-world applications** — from backend architecture to modern frontend interfaces.
 
 I don't just write code. I design systems that are:
 
-- Scalable
-- Maintainable
-- Ready for production
+- Scalable  
+- Maintainable  
+- Ready for production  
 
 Currently building: CRM platforms, reservation systems and e-commerce solutions.
 
@@ -96,7 +95,6 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
       &nbsp;<a href="#">Repo</a>
     </td>
     <td width="50%" valign="top">
-      <br>
       <sub><i>More projects coming soon.</i></sub>
     </td>
   </tr>
@@ -114,25 +112,19 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <br>
       <strong>Fullstack development</strong>
       <br><br>
       <sub>Complete web applications from database to interface. React or Next.js frontend with Node.js or Spring Boot backend.</sub>
-      <br><br>
     </td>
     <td align="center" width="33%">
-      <br>
       <strong>API & backend systems</strong>
       <br><br>
       <sub>Scalable REST APIs with authentication, business logic, database design and full documentation.</sub>
-      <br><br>
     </td>
     <td align="center" width="33%">
-      <br>
       <strong>Infrastructure & DevOps</strong>
       <br><br>
       <sub>Docker deployments, Linux server configuration, CI/CD pipelines. Your app in production, reliably.</sub>
-      <br><br>
     </td>
   </tr>
 </table>
@@ -149,6 +141,6 @@ Available for **freelance projects**, **remote roles** and **technical collabora
 
 <sub>Response within 24 hours.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=80&section=footer" width="100%"/>
 
 </div>
