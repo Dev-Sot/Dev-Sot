@@ -68,7 +68,7 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
         <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       </p>
       <img src="https://img.shields.io/badge/In_progress-1f6feb?style=flat-square"/>
-      &nbsp;<a href="#">Repo</a>
+      &nbsp;<a href="https://github.com/Dev-Sot/crm-saas">Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>Reservation System</h3>
@@ -79,7 +79,7 @@ Currently building: CRM platforms, reservation systems and e-commerce solutions.
         <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       </p>
       <img src="https://img.shields.io/badge/In_progress-1f6feb?style=flat-square"/>
-      &nbsp;<a href="#">Repo</a>
+      &nbsp;<a href="https://github.com/Dev-Sot/reservations-system">Repo</a>
     </td>
   </tr>
   <tr>
