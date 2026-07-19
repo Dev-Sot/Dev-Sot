@@ -118,9 +118,9 @@ Production-grade ecommerce architecture: catalog, cart, orders, authentication a
 </td>
 <td width="50%" valign="top">
 
-###  ForgeCoach
+###  Portafolio
 
-AI-powered coaching platform for developers: smart suggestions, personalized learning paths and productivity tooling.
+loading.
 
 `Next.js` · `FastAPI` · `OpenAI API`
 
