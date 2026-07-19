@@ -1,146 +1,162 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=120&section=header&text=DevSot&fontSize=48&fontColor=58a6ff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Building%20Real%20Systems&descAlignY=70&descSize=12&animation=fadeIn" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=I+build+scalable+web+systems;Backend+%2B+Frontend+%2B+Infrastructure;From+idea+to+production" />
 
-*Turning complex problems into clean, deployable solutions.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:05060A,40:0D1117,70:161B22,100:1F2937&text=DevSot&fontColor=58A6FF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Web%20%26%20Mobile%20%E2%80%A2%20SaaS%20%26%20Backend%20Systems&descAlign=50&descAlignY=58"/>
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:sotelo.dev1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](#)
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=I+design+and+ship+production-ready+software.;Backend+architecture+%7C+SaaS+platforms+%7C+Mobile+apps+%7C+AI+products.;Based+in+Colombia+-+building+for+the+world." />
 
-## About
+<br>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="230" align="right"/>
-
-Fullstack Developer focused on building **real-world applications** — from backend architecture to modern frontend interfaces.
-
-I don't just write code. I design systems that are:
-
-- Scalable  
-- Maintainable  
-- Ready for production  
-
-Currently building: CRM platforms, reservation systems and e-commerce solutions.
-
-## Tech stack
-
-<div align="center">
-
-**Frontend**
-
-[![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com)
-
-**Backend**
-
-[![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com)
-
-**Database**
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org)
-[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com)
-
-**Infrastructure**
-
-[![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
-[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com)
-[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+<a href="mailto:sotelo.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="https://github.com/Dev-Sot?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
 
 </div>
 
-## Projects
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>CRM SaaS Platform</h3>
-      <p>Customer management system designed for businesses to organize and track client interactions. Built for scale from day one.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      </p>
-      <img src="https://img.shields.io/badge/In_progress-1f6feb?style=flat-square"/>
-      &nbsp;<a href="https://github.com/Dev-Sot/crm-saas">Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Reservation System</h3>
-      <p>Booking platform with real-time availability, conflict handling and calendar management. Designed for hospitality and services.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      </p>
-      <img src="https://img.shields.io/badge/In_progress-1f6feb?style=flat-square"/>
-      &nbsp;<a href="https://github.com/Dev-Sot/reservations-system">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>E-commerce Platform</h3>
-      <p>Online store with product management, cart system, checkout flow and order tracking. Built to handle real transaction volume.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      </p>
-      <img src="https://img.shields.io/badge/In_progress-1f6feb?style=flat-square"/>
-      &nbsp;<a href="#">Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><i>More projects coming soon.</i></sub>
-    </td>
-  </tr>
+## About Me
+
+<img align="right" width="300" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"/>
+
+I'm a **Full Stack Software Engineer** focused on building systems that solve real business problems — not demos.
+
+My work covers the full lifecycle: backend architecture, database modeling, API design, web and mobile frontends, containerization and deployment. I care about the details that make software survive: clean architecture, SOLID principles, and code that's still maintainable years later.
+
+**What I bring to a team:**
+
+- End-to-end ownership — from domain modeling to production
+- Backend-first thinking with strong UI execution
+- A bias for shipping: every project is built to deploy, not to sit in a repo
+
+Currently building SaaS platforms, reservation systems, CRMs, mobile apps and AI-powered developer tools.
+
+<br clear="right"/>
+
+## What I Build
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>🌐 SaaS Platforms</h3>
+Multi-tenant products with auth, billing, dashboards and cloud deployment.
+</td>
+<td width="25%" align="center">
+<h3>⚙️ Backend Systems</h3>
+REST APIs, domain modeling, database design and scalable architectures.
+</td>
+<td width="25%" align="center">
+<h3>📱 Mobile Apps</h3>
+Native Android applications with Kotlin, connected to real backends.
+</td>
+<td width="25%" align="center">
+<h3>🤖 AI Products</h3>
+LLM-powered applications with real workflows, not just chat wrappers.
+</td>
+</tr>
 </table>
 
-## GitHub stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
-## Services
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Fullstack development</strong>
-      <br><br>
-      <sub>Complete web applications from database to interface. React or Next.js frontend with Node.js or Spring Boot backend.</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>API & backend systems</strong>
-      <br><br>
-      <sub>Scalable REST APIs with authentication, business logic, database design and full documentation.</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Infrastructure & DevOps</strong>
-      <br><br>
-      <sub>Docker deployments, Linux server configuration, CI/CD pipelines. Your app in production, reliably.</sub>
-    </td>
-  </tr>
-</table>
-
-## Contact
-
-Available for **freelance projects**, **remote roles** and **technical collaboration**.
+## Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Send_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:sotelo.dev1@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/yourprofile)
+**Languages**
 
-<sub>Response within 24 hours.</sub>
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,python"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=80&section=footer" width="100%"/>
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,androidstudio"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postgres,mysql,redis,firebase"/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,postman,figma"/>
+
+</div>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📅 Reservation Platform
+
+Booking system for hospitality, clinics and service businesses. Availability engine, real-time conflict handling, online booking, email notifications and admin dashboard.
+
+`React` · `Spring Boot` · `PostgreSQL` · `Docker`
+
+**[→ View repository](https://github.com/Dev-Sot/reservations-system)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 CRM SaaS Platform
+
+Customer relationship platform with role-based auth, sales pipeline, dashboard analytics and notifications. Designed for performance at scale.
+
+`React` · `Node.js` · `PostgreSQL` · `Docker`
+
+**[→ View repository](https://github.com/Dev-Sot/crm-saas)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Ecommerce Platform
+
+Production-grade ecommerce architecture: catalog, cart, orders, authentication and payment integration.
+
+`Next.js` · `Node.js` · `PostgreSQL`
+
+**🔒 Repository coming soon**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ForgeCoach
+
+AI-powered coaching platform for developers: smart suggestions, personalized learning paths and productivity tooling.
+
+`Next.js` · `FastAPI` · `OpenAI API`
+
+**🚀 Launching soon**
+
+</td>
+</tr>
+</table>
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+## Let's Build Something
+
+<img align="left" width="300" src="https://i.pinimg.com/originals/f1/36/cd/f136cd1bb2c5c2bf6b6b8de476e123e7.gif"/>
+
+<br>
+
+Whether it's a SaaS product, a mobile app, a backend that needs to scale, or an idea that needs an architect — I'm interested.
+
+I respond fast and I ship faster.
+
+<br>
+
+**📬 [sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)**
+
+<br clear="left"/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:05060A,50:0D1117,100:161B22"/>
 
 </div>
