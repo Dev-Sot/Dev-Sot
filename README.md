@@ -37,19 +37,19 @@ Currently building SaaS platforms, reservation systems, CRMs, mobile apps and AI
 <table>
 <tr>
 <td width="25%" align="center">
-<h3>🌐 SaaS Platforms</h3>
+<h3> SaaS Platforms</h3>
 Multi-tenant products with auth, billing, dashboards and cloud deployment.
 </td>
 <td width="25%" align="center">
-<h3>⚙️ Backend Systems</h3>
+<h3> Backend Systems</h3>
 REST APIs, domain modeling, database design and scalable architectures.
 </td>
 <td width="25%" align="center">
-<h3>📱 Mobile Apps</h3>
+<h3> Mobile Apps</h3>
 Native Android applications with Kotlin, connected to real backends.
 </td>
 <td width="25%" align="center">
-<h3>🤖 AI Products</h3>
+<h3> AI Products</h3>
 LLM-powered applications with real workflows, not just chat wrappers.
 </td>
 </tr>
@@ -83,7 +83,7 @@ LLM-powered applications with real workflows, not just chat wrappers.
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Reservation Platform
+###  Reservation Platform
 
 Booking system for hospitality, clinics and service businesses. Availability engine, real-time conflict handling, online booking, email notifications and admin dashboard.
 
@@ -94,7 +94,7 @@ Booking system for hospitality, clinics and service businesses. Availability eng
 </td>
 <td width="50%" valign="top">
 
-### 🏢 CRM SaaS Platform
+###  CRM SaaS Platform
 
 Customer relationship platform with role-based auth, sales pipeline, dashboard analytics and notifications. Designed for performance at scale.
 
@@ -107,24 +107,24 @@ Customer relationship platform with role-based auth, sales pipeline, dashboard a
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Ecommerce Platform
+###  Ecommerce Platform
 
 Production-grade ecommerce architecture: catalog, cart, orders, authentication and payment integration.
 
 `Next.js` · `Node.js` · `PostgreSQL`
 
-**🔒 Repository coming soon**
+** Repository coming soon**
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ForgeCoach
+###  ForgeCoach
 
 AI-powered coaching platform for developers: smart suggestions, personalized learning paths and productivity tooling.
 
 `Next.js` · `FastAPI` · `OpenAI API`
 
-**🚀 Launching soon**
+** Launching soon**
 
 </td>
 </tr>
@@ -151,7 +151,7 @@ I respond fast and I ship faster.
 
 <br>
 
-**📬 [sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)**
+** [sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)**
 
 <br clear="left"/>
 
