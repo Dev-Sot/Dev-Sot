@@ -9,6 +9,7 @@
 <a href="mailto:sotelo.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
 <a href="https://github.com/Dev-Sot?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+<a href="https://play.google.com/store/apps/dev?id=TU-ID-DE-DESARROLLADOR"><img src="https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=58A6FF"/></a>
 
 </div>
 
@@ -16,44 +17,19 @@
 
 ## About Me
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"/>
+I'm a **Full Stack Software Engineer** who builds systems that solve real business problems, not demos.
 
-I'm a **Full Stack Software Engineer** focused on building systems that solve real business problems — not demos.
+My work spans the full lifecycle: backend architecture, database modeling, API design, web and mobile frontends, containerization and deployment. I care about the details that make software survive: clean architecture, SOLID principles, and code that's still maintainable years later.
 
-My work covers the full lifecycle: backend architecture, database modeling, API design, web and mobile frontends, containerization and deployment. I care about the details that make software survive: clean architecture, SOLID principles, and code that's still maintainable years later.
+Beyond client work, I run **Extracurricular**, an independent studio publishing consumer apps on Google Play across different categories — from utilities to lifestyle products.
 
 **What I bring to a team:**
 
-- End-to-end ownership — from domain modeling to production
+- End-to-end ownership, from domain modeling to production
 - Backend-first thinking with strong UI execution
 - A bias for shipping: every project is built to deploy, not to sit in a repo
 
-Currently building SaaS platforms, reservation systems, CRMs, mobile apps and AI-powered developer tools.
-
-<br clear="right"/>
-
-## What I Build
-
-<table>
-<tr>
-<td width="25%" align="center">
-<h3> SaaS Platforms</h3>
-Multi-tenant products with auth, billing, dashboards and cloud deployment.
-</td>
-<td width="25%" align="center">
-<h3> Backend Systems</h3>
-REST APIs, domain modeling, database design and scalable architectures.
-</td>
-<td width="25%" align="center">
-<h3> Mobile Apps</h3>
-Native Android applications with Kotlin, connected to real backends.
-</td>
-<td width="25%" align="center">
-<h3> AI Products</h3>
-LLM-powered applications with real workflows, not just chat wrappers.
-</td>
-</tr>
-</table>
+Currently building SaaS platforms, reservation systems, CRMs, and consumer mobile apps.
 
 ## Tech Stack
 
@@ -83,52 +59,50 @@ LLM-powered applications with real workflows, not just chat wrappers.
 <tr>
 <td width="50%" valign="top">
 
-###  Reservation Platform
+### Reservation Platform
 
 Booking system for hospitality, clinics and service businesses. Availability engine, real-time conflict handling, online booking, email notifications and admin dashboard.
 
 `React` · `Spring Boot` · `PostgreSQL` · `Docker`
 
-**[→ View repository](https://github.com/Dev-Sot/reservations-system)**
+**[View repository](https://github.com/Dev-Sot/reservations-system)**
 
 </td>
 <td width="50%" valign="top">
 
-###  CRM SaaS Platform
+### CRM SaaS Platform
 
 Customer relationship platform with role-based auth, sales pipeline, dashboard analytics and notifications. Designed for performance at scale.
 
 `React` · `Node.js` · `PostgreSQL` · `Docker`
 
-**[→ View repository](https://github.com/Dev-Sot/crm-saas)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  Ecommerce Platform
-
-Production-grade ecommerce architecture: catalog, cart, orders, authentication and payment integration.
-
-`Next.js` · `Node.js` · `PostgreSQL`
-
-** Repository coming soon**
-
-</td>
-<td width="50%" valign="top">
-
-###  Portafolio
-
-loading.
-
-`Next.js` · `FastAPI` · `OpenAI API`
-
-** Launching soon**
+**[View repository](https://github.com/Dev-Sot/crm-saas)**
 
 </td>
 </tr>
 </table>
+
+## Apps on Google Play — Extracurricular
+
+Independent studio building and publishing consumer Android apps.
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### NOIR Wallpapers
+
+Minimalist AMOLED wallpaper app with a dark, high-contrast design language.
+
+`Kotlin` · `Android`
+
+**[View on Google Play](https://play.google.com/store/apps/details?id=TU-PACKAGE-ID)**
+
+</td>
+</tr>
+</table>
+
+**[→ See all Extracurricular apps](https://play.google.com/store/apps/dev?id=TU-ID-DE-DESARROLLADOR)**
 
 ## GitHub Activity
 
@@ -137,23 +111,19 @@ loading.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Sot&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sot&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sot&theme=github-dark-blue&hide_border=true&background=00000000"/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Sot&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+
 </div>
 
 ## Let's Build Something
 
-<img align="left" width="300" src="https://i.pinimg.com/originals/f1/36/cd/f136cd1bb2c5c2bf6b6b8de476e123e7.gif"/>
-
-<br>
-
-Whether it's a SaaS product, a mobile app, a backend that needs to scale, or an idea that needs an architect — I'm interested.
+Whether it's a SaaS product, a mobile app, a backend that needs to scale, or an idea that needs an architect, I'm interested.
 
 I respond fast and I ship faster.
 
-<br>
-
-** [sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)**
-
-<br clear="left"/>
+**[sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · **[Google Play](https://play.google.com/store/apps/dev?id=TU-ID-DE-DESARROLLADOR)**
 
 <div align="center">
 
