@@ -6,8 +6,7 @@
 <p>Full Stack Software Engineer — backend architecture, SaaS platforms, web and mobile applications.</p>
 
 <a href="https://portafolio-ng-gamma.vercel.app/">Portfolio</a> ·
-<a href="mailto:sotelo.dev1@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
+<a href="mailto:sotelo.dev1@gmail.com">Email</a>
 
 </div>
 
@@ -24,36 +23,6 @@ Outside of client work I run **Extracurricular**, an independent studio publishi
 <table>
 <tr>
 <td width="50%">
-<img src="https://portafolio-ng-gamma.vercel.app/images/projects/aurum-restaurant.png" width="100%" alt="Aurum" />
-</td>
-<td valign="top" width="50%">
-
-### Aurum
-Sitio editorial para un restaurante ficticio de tres estrellas Michelin — menú degustación de veinticuatro actos, historia, chef y galería, con tipografía serif a gran escala y un tono minimalista de lujo.
-
-`React` · `TypeScript` · `Vite` · `Tailwind CSS`
-
-[Ver proyecto →](https://portafolio-ng-gamma.vercel.app/projects)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://portafolio-ng-gamma.vercel.app/images/projects/canchazo.png" width="100%" alt="Canchazo" />
-</td>
-<td valign="top" width="50%">
-
-### Canchazo
-Marketplace deportivo para vendedores del Tolima — catálogo, carrito y pagos reales con Wompi. La lógica de dinero (precio, stock, comisión, liquidaciones) corre en funciones PL/pgSQL del servidor, con Row Level Security en cada tabla sensible.
-
-`React` · `TypeScript` · `Vite` · `Supabase`
-
-[Ver proyecto →](https://portafolio-ng-gamma.vercel.app/projects)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 <img src="https://portafolio-ng-gamma.vercel.app/images/projects/differential.png" width="100%" alt="Differential" />
 </td>
 <td valign="top" width="50%">
@@ -67,9 +36,39 @@ Asistente médico de diagnóstico diferencial con RAG — evalúa síntomas cont
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+<img src="https://github.com/Dev-Sot/zombie-night/raw/main/docs/social-preview.png" width="100%" alt="Noche Sin Luna" />
+</td>
+<td valign="top" width="50%">
+
+### Noche Sin Luna
+Supervivencia zombie top-down en pixel art, para jugar solo o cooperativo online de hasta 4 jugadores por WebRTC. Tres noches con historia y objetivos propios, motor con bucle de paso fijo a 60 Hz, pathfinding por campo de flujo y audio 100% procedural. Sin build ni dependencias — módulos ES nativos.
+
+`JavaScript` · `HTML5 Canvas` · `WebRTC` · `Web Audio API`
+
+[Jugar ahora →](https://zombie-night.vercel.app) · [Repositorio →](https://github.com/Dev-Sot/zombie-night)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github.com/Dev-Sot/PortafolioNG/blob/main/public/images/portafolioimagen.gif?raw=true" width="100%" alt="Dev-Sot Portfolio" />
+</td>
+<td valign="top" width="50%">
+
+### Portfolio
+Personal site and project archive, dark-mode-first. Built around typography, motion and information hierarchy instead of a template — case studies for every project above, an experience section and a working contact flow.
+
+`Next.js` · `React` · `Tailwind CSS`
+
+[About me →](https://portafolio-ng-gamma.vercel.app/#about)
+
+</td>
+</tr>
 </table>
 
-**Más proyectos:** Reservation Platform ([React · Spring Boot · PostgreSQL](https://github.com/Dev-Sot/reservations-system)) · CRM SaaS Platform ([React · Node.js · PostgreSQL](https://github.com/Dev-Sot/crm-saas)) · Habit Tracker, Fitness Training App y Wallpapers App (`Kotlin` · `Android Studio` · `Firebase`)
+**Más proyectos:** Reservation Platform ([React · Spring Boot · PostgreSQL](https://github.com/Dev-Sot/reservations-system)) · CRM SaaS Platform ([React · Node.js · PostgreSQL](https://github.com/Dev-Sot/crm-saas))
 
 [→ Ver el portafolio completo](https://portafolio-ng-gamma.vercel.app/projects)
 
@@ -93,12 +92,10 @@ Asistente médico de diagnóstico diferencial con RAG — evalúa síntomas cont
 
 Independent studio, consumer Android apps published on Google Play.
 
-- **NOIR Wallpapers** — minimalist AMOLED wallpaper app. `Kotlin`, `Android`
-
-[All apps on Google Play](https://play.google.com/store/apps/dev?id=TU-ID-DE-DESARROLLADOR)
+- **BloomApp** — próximamente en Google Play. `Kotlin`, `Android`
 
 ---
 
 ## Contact
 
-[sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · [Portfolio](https://portafolio-ng-gamma.vercel.app/) · [GitHub](https://github.com/Dev-Sot?tab=repositories)
+[sotelo.dev1@gmail.com](mailto:sotelo.dev1@gmail.com) · [Portfolio](https://portafolio-ng-gamma.vercel.app/) · [GitHub](https://github.com/Dev-Sot?tab=repositories)
