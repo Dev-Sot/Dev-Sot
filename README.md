@@ -43,7 +43,7 @@ Asistente médico de diagnóstico diferencial con RAG — evalúa síntomas cont
 <td valign="top" width="50%">
 
 ### Noche Sin Luna
-Supervivencia zombie top-down en pixel art, para jugar solo o cooperativo online de hasta 4 jugadores por WebRTC. Tres noches con historia y objetivos propios, motor con bucle de paso fijo a 60 Hz, pathfinding por campo de flujo y audio 100% procedural. Sin build ni dependencias — módulos ES nativos.
+Supervivencia zombie top-down en pixel art, para jugar solo o cooperativo online de hasta 4 jugadores por WebRTC. Nueve noches en tres mundos con historia y objetivos propios, motor con bucle de paso fijo a 60 Hz y pathfinding por campo de flujo. Sin build ni dependencias — módulos ES nativos.
 
 `JavaScript` · `HTML5 Canvas` · `WebRTC` · `Web Audio API`
 
@@ -68,7 +68,7 @@ Personal site and project archive, dark-mode-first. Built around typography, mot
 </tr>
 </table>
 
-**Más proyectos:** Reservation Platform ([React · Spring Boot · PostgreSQL](https://github.com/Dev-Sot/reservations-system)) · CRM SaaS Platform ([React · Node.js · PostgreSQL](https://github.com/Dev-Sot/crm-saas))
+**Más proyectos:** [Hotel Booking](https://hotel-booking-beta-three.vercel.app) (Next.js · Supabase · PostgreSQL) · [Canchazo](https://github.com/Dev-Sot/canchazo) (React · Supabase · Wompi) · [Aurum](https://github.com/Dev-Sot/Aurum-Restaurant) (React · Framer Motion) · [Pixel Dash](https://github.com/Dev-Sot/pixel-dash) (JavaScript · Canvas)
 
 [→ Ver el portafolio completo](https://portafolio-ng-gamma.vercel.app/projects)
 
@@ -76,9 +76,9 @@ Personal site and project archive, dark-mode-first. Built around typography, mot
 
 ## Stack
 
-**Languages:** Java, Kotlin, TypeScript, JavaScript, Python
+**Languages:** Java, Kotlin, Dart, TypeScript, JavaScript, Python
 
-**Frontend / Mobile:** React, Next.js, Tailwind CSS, Android (Kotlin)
+**Frontend / Mobile:** React, Next.js, Tailwind CSS, Flutter, Android (Kotlin)
 
 **Backend:** Spring Boot, Node.js, FastAPI
 
@@ -92,7 +92,8 @@ Personal site and project archive, dark-mode-first. Built around typography, mot
 
 Independent studio, consumer Android apps published on Google Play.
 
-- **BloomApp** — próximamente en Google Play. `Kotlin`, `Android`
+- **Bloom** — hábitos, estado de ánimo, diario y objetivos. Próximamente en Google Play. `Flutter`, `Dart`
+- **Noir Wallpapers** — wallpapers curados con wallpaper del día y rachas. Próximamente en Google Play. `Flutter`, `Dart`
 
 ---
 
