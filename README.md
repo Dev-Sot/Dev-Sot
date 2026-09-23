@@ -68,7 +68,7 @@ Personal site and project archive, dark-mode-first. Built around typography, mot
 </tr>
 </table>
 
-**Más proyectos:** [Hotel Booking](https://hotel-booking-beta-three.vercel.app) (Next.js · Supabase · PostgreSQL) · [Canchazo](https://github.com/Dev-Sot/canchazo) (React · Supabase · Wompi) · [Aurum](https://github.com/Dev-Sot/Aurum-Restaurant) (React · Framer Motion) · [Pixel Dash](https://github.com/Dev-Sot/pixel-dash) (JavaScript · Canvas)
+**Más proyectos:** [Hotel Booking](https://github.com/Dev-Sot/hotel-booking) (Next.js · Supabase · PostgreSQL · [demo](https://hotel-booking-gamma-red.vercel.app)) · [Canchazo](https://github.com/Dev-Sot/canchazo) (React · Supabase · Wompi) · [Aurum](https://github.com/Dev-Sot/Aurum-Restaurant) (React · Framer Motion) · [Pixel Dash](https://github.com/Dev-Sot/pixel-dash) (JavaScript · Canvas)
 
 [→ Ver el portafolio completo](https://portafolio-ng-gamma.vercel.app/projects)
 
