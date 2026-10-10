@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./kofbanner.gif" width="100%" alt="Dev-Sot banner" />
+<img src="./ban.gif" width="100%" alt="Dev-Sot banner" />
 
 <br>
 <br>
